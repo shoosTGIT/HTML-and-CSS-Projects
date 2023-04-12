@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<title>Brooklyn</title>
+		<meta charset="utf-8">
+		<main>
+			</main>
+			
+	</head>
+	<body>
+	<h2> A beautiful picture of my favorite city!</h2>
+	<img src="brooklyntower.jpg">
+	</body>
+	<footer>
+	<nav>
+	</nav>
+	</footer>
+</html>
