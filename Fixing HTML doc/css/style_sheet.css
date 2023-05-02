@@ -1,0 +1,33 @@
+body {
+    background-color: lightblue;
+}
+h1, h2 {
+    color: darkblue;
+}
+
+h3 {
+    text-align: center;
+    color: darkblue;
+}
+
+p, strong {
+    color: darkblue;
+}
+
+img {
+    justify-content: left;
+}
+
+.flex-container {
+    position: relative;
+    width: 600px;
+    height: 400px;
+}
+
+.photo {
+    border-top: 1px dashed;
+    border-left: 1px dashed;
+    border-right: 1px dashed;
+    border-bottom: 1px dashed;
+    border-color: red;
+}
